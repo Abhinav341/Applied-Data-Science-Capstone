@@ -6,5 +6,5 @@ A friend of mine currently residing in Florida wants to relocate to California t
 
 ## Data 
 
-To solve the above problem, we are going to use the Foursquare location data. We are going to explore venues in each of the 4 cities and see what each city has to offer and what’s unique about it. 
+To solve the above problem, we are going to use the Foursquare location data. We are going to explore venues in each of the 4 cities and see what each city has to offer and what’s unique about it. We can analyse the top venues in each city, ratings given by users to different venues as well as different venue categories.
 
